@@ -1,0 +1,34 @@
+{
+    "products": [{
+        "title": "Apple iPhone 14 Pro 128GB (Space Black) (e-Sim)",
+        "stat": 0,
+        "desc": "2022 року захоплена публіка побачила чергову версію фірмового флагманського смартфона — iPhone 14 Pro. ",
+        "img": "/products/1.webp",
+        "cost": "1331",
+        "manufacturer":"Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Plus 128GB (Midnight)",
+        "stat": 1,
+        "desc": "Пропонуємо ближче познайомитися зі старшим братом базового iPhone 14 та основними особливостями свіжої лінійки смартфонів від Apple.",
+        "img": "/products/2.webp",
+        "cost": "1332",
+        "manufacturer":"Apple"
+    },
+    {
+        "title": "Apple iPhone 11 64GB (Black)",
+        "stat": 1,
+        "desc": "Пропонуємо ближче познайомитись із першим серед смартфонів Apple 2019 року.",
+        "img": "/products/3.webp",
+        "cost": "1333",
+        "manufacturer":"Apple"
+    },
+    {
+        "title": "SAMSUNG GALAXY S20 ULTRA",
+        "stat": 1,
+        "desc": "Galaxy S20 Ultra надає небачені досі можливості створення фотошедеврів.",
+        "img": "/products/4.webp",
+        "cost": "700",
+        "manufacturer":"Samsung"
+    }]
+}

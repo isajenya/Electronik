@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Roboto:ital,wght@1,100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Manrope', sans-serif;
+    text-decoration: none;
+}
+
+a{
+    color: black;
+}
+
+img{
+    border-radius: 4px;
+}
+
+hr.style1{
+	border-top: 1px solid #8c8b8b;
+}
+
+.card{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.card img{
+    margin: 10px; 
+}
+
+.card .btn-sm:disabled{
+    background: #b2b2b2;
+}
+
+.cart-row{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.cart-row *{
+    margin: 10px;
+}
+
+.cart-row button, .cart-row .product-num{margin-left: auto;}
+
+
+.sort input{
+    max-width: 100px;
+    margin: 0px 10px 0px 10px;
+}
+
